@@ -1,10 +1,10 @@
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *Wordle Game*
 
-Submitted by: **Your Name Here**
+Submitted by: **Isata**
 
 **Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -24,10 +24,6 @@ The following **optional** features are implemented:
 - [ ] User will get an error message if they input an invalid guess
 - [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -43,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Figuring out how to use Android Studio was a challenge.
 
 ## License
 
