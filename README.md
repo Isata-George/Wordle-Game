@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://youtube.com/shorts/eegkjimMpV4?feature=share](https://youtube.com/shorts/rqlkNOnyNh0?feature=share)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtube.com/shorts/rqlkNOnyNh0?feature=share' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
