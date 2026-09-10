@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s8.ezgif.com/tmp/ezgif-861921629619b5e7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/ikgeorge23/Downloads/ezgif-13ffb71155488298.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
