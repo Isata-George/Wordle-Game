@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/ikgeorge23/Downloads/ezgif-13ffb71155488298.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://tenor.googleapis.com/v2/media?id=16855015163657665320&format=optimizedgif&client_key=tenor_web&appversion=browser-r260623-1&access_token=ya29.a0AdMD6EjnwCEYUr2MYG-JZb8l-OJXEurge3ub6MO8juwn5uIewkK_Egs0rFHl_OWjdMcpLKrWa1Hxwf-2ipAJlyZBV54iMqfVA9S9-bAjeeB3JyLlw717-NaSCJJ9fGaKxqybclReb8asOJL63BADbOL9XlaHlzEypgvmZARXrIR4i5ghTrng0B-2SOoGDohhR9eVnJqIRIH4yiUYWPtB0TBYLqExBpCcq0U1KdkKkNCaSIvZDqM6WksJ5w0bf8h3boSY-w8vjnjJVB-yWDD70zl4pLMaCgYKASwSARQSFQHGX2Mi8IUCqHyh1Hbmx1ceR6f3Ng0290&key=AIzaSyCZt6SSh5VgVPzD9fhyzG1DprdPRhtoaR4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
