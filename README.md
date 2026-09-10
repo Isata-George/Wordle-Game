@@ -21,6 +21,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd0YXV4NTM2dnRoa2cyaHNkcnh2Z2s0a2d0Yzc4d2M0eG0yNWlqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0b6eHEfQVTusdJX7I/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF created with giphy.com
+
 ## Notes
 
 Figuring out how to use Android Studio was a challenge.
